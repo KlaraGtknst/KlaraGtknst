@@ -39,7 +39,6 @@ Here are some of the projects I've been involved in:
 - 🌱 I’m currently learning **deep learning techniques and IR.**
 - 👯 I’m looking to collaborate on **NLP & IR projects and open-source initiatives.**
 - 💬 Ask me about **NLP, IR and data mining.**
-- 📫 How to reach me: **[klara.gutekunst@student.uni-kassel.de](mailto:klara.gutekunst@student.uni-kassel.de)**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I enjoy visualizing complex data through creative infographics!**
 
@@ -47,8 +46,5 @@ Here are some of the projects I've been involved in:
 
 ![Klara's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlaraGtknst&show_icons=true&theme=default)
 
-## 📫 Connect with Me
-
-- **Email:** [klara.gutekunst@student.uni-kassel.de](mailto:klara.gutekunst@student.uni-kassel.de) 
 
 Feel free to reach out if you're interested in collaborating or discussing any of my projects!
