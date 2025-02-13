@@ -24,12 +24,12 @@ Here are some of the projects I've been involved in:
   *Repository:* [text_topic](https://github.com/KlaraGtknst/text_topic)  
   *Description:* Pipeline to embed .txt documents and cluster them according to their topic.
 
-- **Topic Analysis of Text Data** 
-  *Repository:* [topic-analysis-text-data](https://github.com/KlaraGtknst/topic-analysis-text-data)
+- **Topic Analysis of Text Data**  
+  *Repository:* [topic-analysis-text-data](https://github.com/KlaraGtknst/topic-analysis-text-data)  
   *Description:* This repository provides methods and functions to find similar documents in terms of content and visual appearance, i.e. layout, from a large corpus of unstructured text data. 
 
-- **Identifying fiscal fraud with anomaly detection techniques**
-  *Repository:* [identifying-fiscal-fraud](https://github.com/KlaraGtknst/identifying-fiscal-fraud)
+- **Identifying fiscal fraud with anomaly detection techniques**  
+  *Repository:* [identifying-fiscal-fraud](https://github.com/KlaraGtknst/identifying-fiscal-fraud)  
   *Description:* Bachelor Seminar about exploring techniques to identify anomalies and fiscal fraud. 
 
 
