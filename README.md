@@ -35,10 +35,10 @@ Here are some of the projects I've been involved in:
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **data mining and NLP research projects.**
-- 🌱 I’m currently learning **deep learning techniques and IR.**
-- 👯 I’m looking to collaborate on **NLP & IR projects and open-source initiatives.**
-- 💬 Ask me about **NLP, IR and data mining.**
+- 🔭 I’m currently working on **Data Mining of large unstructured (text) data and Information Retrieval research projects.**
+- 🌱 I’m currently learning **Argumentative search & Web search** in the context of **Information Retrieval.**
+- 👯 I’m looking to collaborate on **Natural Language Processing, Information Retrieval projects and open-source initiatives.**
+- 💬 Ask me about **Natural Language Processing, Information Retrieval and Data Mining.**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I enjoy visualizing complex data through creative infographics!**
 
