@@ -48,7 +48,7 @@ Here are some of the projects I've been involved in:
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [Klara M. Gutekunst]([https://www.linkedin.com/in/klara-gutekunst](https://www.linkedin.com/in/klara-maximiliane-gutekunst-36b46335) 
+- **LinkedIn:** [Klara M. Gutekunst](https://www.linkedin.com/in/klara-maximiliane-gutekunst-36b463351 )
 
 
 Feel free to reach out if you're interested in collaborating or discussing any of my projects!
