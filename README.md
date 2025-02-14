@@ -22,7 +22,7 @@ Here are some of the projects I've been involved in:
 
 - **Text topic**  
   *Repository:* [text_topic](https://github.com/KlaraGtknst/text_topic)  
-  *Description:* Pipeline to embed .txt documents and cluster them according to their topic.
+  *Description:* This repository implements a pipeline to store various data of files from a large unstructured dataset. These fields are used for topic modeling (wordclouds, based on low-dimensional versions of embedding vectors, Named Entity Clustering and document-topic incidences). The information is aggregated and visualised using FCA. 
 
 - **Topic Analysis of Text Data**  
   *Repository:* [topic-analysis-text-data](https://github.com/KlaraGtknst/topic-analysis-text-data)  
