@@ -30,7 +30,11 @@ Here are some of the projects I've been involved in:
 
 - **Identifying fiscal fraud with anomaly detection techniques**  
   *Repository:* [identifying-fiscal-fraud](https://github.com/KlaraGtknst/identifying-fiscal-fraud)  
-  *Description:* Bachelor Seminar about exploring techniques to identify anomalies and fiscal fraud. 
+  *Description:* Bachelor Seminar about exploring techniques to identify anomalies and fiscal fraud.
+
+- **Optimization of Spiking Neural Networks**  
+  *Repository:* [bachelor-seminar-kde]([https://github.com/KlaraGtknst/identifying-fiscal-fraud](https://github.com/KlaraGtknst/bachelor-seminar-kde))  
+  *Description:* Bachelor Seminar about Spiking Neural Networks. 
 
 
 ## 🚀 About Me
