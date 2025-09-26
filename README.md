@@ -8,6 +8,10 @@ Feel free to explore my repositories to see the projects I've been working on.
 
 Here are some of the projects I've been involved in:
 
+- **Master Thesis: Leveraging LLM-Generated Hard Negatives for the Impostors Approach**     
+  *Repository:* [master-thesis](https://github.com/KlaraGtknst/master-thesis)     
+  *Description:* This repository contains the written work on my Master thesis, employing LLM-generated paraphrases as hard negatives for the Impostor approach of Koppel and Winter (2014).
+
 - **Bachelor Thesis: Identification of Key Information with Topic Analysis on Large Unstructured Text Data**  
   *Repository:* [bachelor-thesis](https://github.com/KlaraGtknst/bachelor-thesis)  
   *Description:* This repository contains the written work on my Bachelor thesis, focusing on identifying key information using topic analysis techniques.
