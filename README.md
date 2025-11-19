@@ -1,6 +1,6 @@
 # Hi there, I'm Klara M. Gutekunst 👋
 
-I'm currently pursuing my Master's degree in Computer Science at the University of Kassel. 
+I'm currently a PhD Student of Computer Science at the [Deep Semantic Learning group](https://temir.org/) at the University of Kassel. 
 My interests lie in machine learning, data analysis, Information Retrieval and Natural Language Processing. 
 Feel free to explore my repositories to see the projects I've been working on.
 
